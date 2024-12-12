@@ -7,6 +7,6 @@ The languages used are C and Shell.
 
 ## **🌈 Project Vault**
 
-### **🏆 Rank 00 - [Libft](rank00/libft)**
+### **🏆 Rank 00 - [Libft](rank00/libft/README.md)**
 - **My own first C library!**
 Libft is where it all began—building a custom C library from scratch, reimplementing standard functions and tackling strings, memory, and linked lists.
